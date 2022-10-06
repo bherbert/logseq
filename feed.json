@@ -28,14 +28,14 @@
             "url": "https://bherbert.github.io/logseq/test.html",
             "title": "Post1",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;",
-            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://bherbert.github.io/logseq/media/posts/1/gallery/CleanShot-2022-10-05-at-15.55.00.mp4\" data-size=\"x\">\n        <img loading=\"lazy\" src=\"https://bherbert.github.io/logseq/media/posts/1/gallery/CleanShot-2022-10-05-at-15.55.00.mp4\" height=\"\" width=\"\" alt=\"AltText\" />\n      </a>\n      <figcaption>Caption line</figcaption>\n    </figure>\n    </div>\n  </div>",
             "author": {
                 "name": "Me"
             },
             "tags": [
             ],
             "date_published": "2022-10-06T10:46:29-07:00",
-            "date_modified": "2022-10-06T10:49:26-07:00"
+            "date_modified": "2022-10-06T10:53:56-07:00"
         }
     ]
 }
