@@ -3,21 +3,44 @@
     <title>Test</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-06T10:46:29-07:00</updated>
+    <updated>2022-10-06T10:49:26-07:00</updated>
     <author>
         <name>Me</name>
     </author>
     <id>https://bherbert.github.io/logseq</id>
 
     <entry>
-        <title>Test</title>
+        <title>Post2</title>
+        <author>
+            <name>Me</name>
+        </author>
+        <link href="https://bherbert.github.io/logseq/post2.html"/>
+        <id>https://bherbert.github.io/logseq/post2.html</id>
+
+        <updated>2022-10-06T10:49:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post1</title>
         <author>
             <name>Me</name>
         </author>
         <link href="https://bherbert.github.io/logseq/test.html"/>
         <id>https://bherbert.github.io/logseq/test.html</id>
 
-        <updated>2022-10-06T10:46:29-07:00</updated>
+        <updated>2022-10-06T10:49:26-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel&hellip;
