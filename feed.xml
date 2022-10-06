@@ -3,7 +3,7 @@
     <title>Logseq</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-06T12:02:00-07:00</updated>
+    <updated>2022-10-06T12:13:08-07:00</updated>
     <author>
         <name>Brant</name>
     </author>
@@ -37,7 +37,7 @@
         <link href="https://bherbert.github.io/logseq/post2.html"/>
         <id>https://bherbert.github.io/logseq/post2.html</id>
 
-        <updated>2022-10-06T11:19:31-07:00</updated>
+        <updated>2022-10-06T12:10:03-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -47,13 +47,12 @@
             <![CDATA[
                 
   <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et&nbsp;
   </p>
-<pre class="line-numbers  language-html"><code>&lt;figure class="post__video post__video--21by9"&gt;
-  &lt;video width="100%" height="auto" controls="controls" data-mce-fragment="1"&gt;
-    &lt;source src="media/files/filename.mp4" type="video/mp4" /&gt;
-  &lt;/video&gt;
-&lt;/figure&gt;</code></pre>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
@@ -65,7 +64,7 @@
         <link href="https://bherbert.github.io/logseq/test.html"/>
         <id>https://bherbert.github.io/logseq/test.html</id>
 
-        <updated>2022-10-06T12:02:00-07:00</updated>
+        <updated>2022-10-06T12:13:08-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -81,8 +80,32 @@ type="video/mp4" /></video>
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
   </p>
+
+    <h3 id="h2">
+      H2
+    </h3>
+
+  <ul>
+    <li>one</li><li>two</li><li>free</li>
+  </ul>
+
+  <p>
+    This is some text
+  </p>
+
+  <p>
+    More text
+  </p>
+
+  <p>
+    and more still
+  </p>
+
+  <p>
+    still more
+  </p>
 <div><video loading="lazy" width="100%" height="auto" controls>
-<source src="https://bherbert.github.io/logseq/media/files/video1.mp4" 
+<source src="https://bherbert.github.io/logseq/media/files/video2.mp4" 
 type="video/mp4" /></video></div>
             ]]>
         </content>
