@@ -3,7 +3,7 @@
     <title>Logseq</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-06T11:53:51-07:00</updated>
+    <updated>2022-10-06T11:56:22-07:00</updated>
     <author>
         <name>Brant</name>
     </author>
@@ -65,7 +65,7 @@
         <link href="https://bherbert.github.io/logseq/test.html"/>
         <id>https://bherbert.github.io/logseq/test.html</id>
 
-        <updated>2022-10-06T11:53:51-07:00</updated>
+        <updated>2022-10-06T11:56:22-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -73,7 +73,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div><video loading="lazy" width="100%" height="auto" controls>
+                <div><video loading="lazy" width="320" height="240" controls>
 <source src="https://bherbert.github.io/logseq/media/files/video1.mp4" 
 type="video/mp4 /></video>
 </div>
