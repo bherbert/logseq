@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bherbert.github.io/sitemap.xml
+Sitemap: https://logseq.github.io/sitemap.xml
