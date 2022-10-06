@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Logseq",
+    "title": "Learning Logseq",
     "description": "",
     "home_page_url": "https://bherbert.github.io/logseq",
     "feed_url": "https://bherbert.github.io/logseq/feed.json",
@@ -10,17 +10,31 @@
     },
     "items": [
         {
+            "id": "https://bherbert.github.io/logseq/learning-logseq.html",
+            "url": "https://bherbert.github.io/logseq/learning-logseq.html",
+            "title": "Getting Started",
+            "content_html": "\n<p>this is a test</p>\n\n<p><a href=\"https://bherbert.github.io/logseq/media/files/video1.mp4\">and some more</a></p>\n\n<h2>Intro post</h2>\n<ul>\n<li>Why this site</li>\n<li>showing features and plugins</li>\n<li>showing usecases and workflows</li>\n</ul>\n<p> </p>",
+            "author": {
+                "name": "Brant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-06T13:17:37-07:00",
+            "date_modified": "2022-10-06T13:31:53-07:00"
+        },
+        {
             "id": "https://bherbert.github.io/logseq/post3.html",
             "url": "https://bherbert.github.io/logseq/post3.html",
             "title": "Post3",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://bherbert.github.io/logseq/media/posts/3/308108020_188639283637836_4991066234594736809_n.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w\"  height=\"1005\" width=\"696\" alt=\"\" />\n      \n    </figure>",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. <br><br>Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://bherbert.github.io/logseq/media/posts/3/308108020_188639283637836_4991066234594736809_n.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w\"  height=\"1005\" width=\"696\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Brant"
             },
             "tags": [
             ],
             "date_published": "2022-10-06T11:05:34-07:00",
-            "date_modified": "2022-10-06T11:05:34-07:00"
+            "date_modified": "2022-10-06T13:15:40-07:00"
         },
         {
             "id": "https://bherbert.github.io/logseq/post2.html",
@@ -41,14 +55,14 @@
             "url": "https://bherbert.github.io/logseq/test.html",
             "title": "Post1",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;",
-            "content_html": "<div><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls>\n<source src=\"https://bherbert.github.io/logseq/media/files/video1.mp4\" \ntype=\"video/mp4\" /></video>\n</div>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>\n\n    <h3 id=\"h2\">\n      H2\n    </h3>\n\n  <ul>\n    <li>one</li><li>two</li><li>free</li>\n  </ul>\n\n  <p>\n    This is some text\n  </p>\n\n  <p>\n    More text\n  </p>\n\n  <p>\n    and more still\n  </p>\n\n  <p>\n    still more\n  </p>\n<div><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls>\n<source src=\"media/files/video2.mp4\" \ntype=\"video/mp4\" /></video></div>",
+            "content_html": "<div><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls>\n<source src=\"https://bherbert.github.io/logseq/media/files/video1.mp4\" \ntype=\"video/mp4\" /></video>\n</div>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>\n\n    <h3 id=\"h2\">\n      H2\n    </h3>\n\n  <ul>\n    <li>one</li><li>two</li><li>free</li>\n  </ul>\n\n  <p>\n    This is some text\n  </p>\n\n  <p>\n    More text\n  </p>\n\n  <p>\n    and more still\n  </p>\n\n  <p>\n    still more\n  </p>\n<div><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls>\n    <source src=\"media/files/video2.mp4\" type=\"video/mp4\" />\n</video></div>",
             "author": {
                 "name": "Brant"
             },
             "tags": [
             ],
             "date_published": "2022-10-06T10:46:29-07:00",
-            "date_modified": "2022-10-06T12:53:33-07:00"
+            "date_modified": "2022-10-06T13:07:07-07:00"
         }
     ]
 }

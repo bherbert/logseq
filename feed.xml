@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Logseq</title>
+    <title>Learning Logseq</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-06T12:53:33-07:00</updated>
+    <updated>2022-10-06T13:31:53-07:00</updated>
     <author>
         <name>Brant</name>
     </author>
     <id>https://bherbert.github.io/logseq</id>
 
+    <entry>
+        <title>Getting Started</title>
+        <author>
+            <name>Brant</name>
+        </author>
+        <link href="https://bherbert.github.io/logseq/learning-logseq.html"/>
+        <id>https://bherbert.github.io/logseq/learning-logseq.html</id>
+
+        <updated>2022-10-06T13:31:53-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+<p>this is a test</p>
+
+<p><a href="https://bherbert.github.io/logseq/media/files/video1.mp4">and some more</a></p>
+
+<h2>Intro post</h2>
+<ul>
+<li>Why this site</li>
+<li>showing features and plugins</li>
+<li>showing usecases and workflows</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Post3</title>
         <author>
@@ -17,15 +44,27 @@
         <link href="https://bherbert.github.io/logseq/post3.html"/>
         <id>https://bherbert.github.io/logseq/post3.html</id>
 
-        <updated>2022-10-06T11:05:34-07:00</updated>
-            <summary></summary>
+        <updated>2022-10-06T13:15:40-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. <br><br>Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
+  </p>
+
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://bherbert.github.io/logseq/media/posts/3/308108020_188639283637836_4991066234594736809_n.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w"  height="1005" width="696" alt="" />
       
     </figure>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
@@ -64,7 +103,7 @@
         <link href="https://bherbert.github.io/logseq/test.html"/>
         <id>https://bherbert.github.io/logseq/test.html</id>
 
-        <updated>2022-10-06T12:53:33-07:00</updated>
+        <updated>2022-10-06T13:07:07-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -105,8 +144,8 @@ type="video/mp4" /></video>
     still more
   </p>
 <div><video loading="lazy" width="100%" height="auto" controls>
-<source src="media/files/video2.mp4" 
-type="video/mp4" /></video></div>
+    <source src="media/files/video2.mp4" type="video/mp4" />
+</video></div>
             ]]>
         </content>
     </entry>
