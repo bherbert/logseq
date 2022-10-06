@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Test</title>
+    <title>Logseq</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-06T10:53:56-07:00</updated>
+    <updated>2022-10-06T11:38:54-07:00</updated>
     <author>
-        <name>Me</name>
+        <name>Brant</name>
     </author>
     <id>https://bherbert.github.io/logseq</id>
 
     <entry>
+        <title>Post3</title>
+        <author>
+            <name>Brant</name>
+        </author>
+        <link href="https://bherbert.github.io/logseq/post3.html"/>
+        <id>https://bherbert.github.io/logseq/post3.html</id>
+
+        <updated>2022-10-06T11:05:34-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bherbert.github.io/logseq/media/posts/3/308108020_188639283637836_4991066234594736809_n.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w"  height="1005" width="696" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Post2</title>
         <author>
-            <name>Me</name>
+            <name>Brant</name>
         </author>
         <link href="https://bherbert.github.io/logseq/post2.html"/>
         <id>https://bherbert.github.io/logseq/post2.html</id>
 
-        <updated>2022-10-06T10:49:04-07:00</updated>
+        <updated>2022-10-06T11:19:31-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -29,18 +49,23 @@
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
   </p>
+<pre class="line-numbers  language-html"><code>&lt;figure class="post__video post__video--21by9"&gt;
+  &lt;video width="100%" height="auto" controls="controls" data-mce-fragment="1"&gt;
+    &lt;source src="media/files/filename.mp4" type="video/mp4" /&gt;
+  &lt;/video&gt;
+&lt;/figure&gt;</code></pre>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Post1</title>
         <author>
-            <name>Me</name>
+            <name>Brant</name>
         </author>
         <link href="https://bherbert.github.io/logseq/test.html"/>
         <id>https://bherbert.github.io/logseq/test.html</id>
 
-        <updated>2022-10-06T10:53:56-07:00</updated>
+        <updated>2022-10-06T11:38:54-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -48,21 +73,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                
+                <div>
+<video loading="lazy" width="100%" height="auto" controls="controls"><source src="https://bherbert.github.io/logseq/media/files/video1.mp4" type="video/mp4 /></video>
+</div>
+
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
   </p>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://bherbert.github.io/logseq/media/posts/1/gallery/CleanShot-2022-10-05-at-15.55.00.mp4" data-size="x">
-        <img loading="lazy" src="https://bherbert.github.io/logseq/media/posts/1/gallery/CleanShot-2022-10-05-at-15.55.00.mp4" height="" width="" alt="AltText" />
-      </a>
-      <figcaption>Caption line</figcaption>
-    </figure>
-    </div>
-  </div>
             ]]>
         </content>
     </entry>
