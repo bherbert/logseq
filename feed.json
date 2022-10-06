@@ -1,27 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Logseq Tips",
+    "title": "Test",
     "description": "",
     "home_page_url": "https://bherbert.github.io/logseq",
     "feed_url": "https://bherbert.github.io/logseq/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Brant"
+        "name": "Me"
     },
     "items": [
         {
-            "id": "https://bherbert.github.io/logseq/episode-000-plugins.html",
-            "url": "https://bherbert.github.io/logseq/episode-000-plugins.html",
-            "title": "Episode 000: Plugins",
+            "id": "https://bherbert.github.io/logseq/test.html",
+            "url": "https://bherbert.github.io/logseq/test.html",
+            "title": "Test",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel&hellip;",
-            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.</p>\n<p>[Video](#INTERNAL_LINK#/file/media/files/CleanShot 2022-10-05 at 15.55.00.mp4)</p>\n",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>",
             "author": {
-                "name": "Brant"
+                "name": "Me"
             },
             "tags": [
             ],
-            "date_published": "2022-10-06T08:37:33-07:00",
-            "date_modified": "2022-10-06T08:52:32-07:00"
+            "date_published": "2022-10-06T10:46:29-07:00",
+            "date_modified": "2022-10-06T10:46:29-07:00"
         }
     ]
 }
