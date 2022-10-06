@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Logseq Tips</title>
-    <link href="https://logseq.github.io/feed.xml" rel="self" />
-    <link href="https://logseq.github.io" />
+    <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
+    <link href="https://bherbert.github.io/logseq" />
     <updated>2022-10-06T08:52:32-07:00</updated>
     <author>
         <name>Brant</name>
     </author>
-    <id>https://logseq.github.io</id>
+    <id>https://bherbert.github.io/logseq</id>
 
     <entry>
         <title>Episode 000: Plugins</title>
         <author>
             <name>Brant</name>
         </author>
-        <link href="https://logseq.github.io/episode-000-plugins.html"/>
-        <id>https://logseq.github.io/episode-000-plugins.html</id>
+        <link href="https://bherbert.github.io/logseq/episode-000-plugins.html"/>
+        <id>https://bherbert.github.io/logseq/episode-000-plugins.html</id>
 
         <updated>2022-10-06T08:52:32-07:00</updated>
             <summary>
