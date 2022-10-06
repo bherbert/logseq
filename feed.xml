@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Logseq Tips</title>
+    <link href="https://bherbert.github.io/feed.xml" rel="self" />
+    <link href="https://bherbert.github.io" />
+    <updated>2022-10-06T08:52:32-07:00</updated>
+    <author>
+        <name>Brant</name>
+    </author>
+    <id>https://bherbert.github.io</id>
+
+    <entry>
+        <title>Episode 000: Plugins</title>
+        <author>
+            <name>Brant</name>
+        </author>
+        <link href="https://bherbert.github.io/episode-000-plugins.html"/>
+        <id>https://bherbert.github.io/episode-000-plugins.html</id>
+
+        <updated>2022-10-06T08:52:32-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.</p>
+<p>[Video](#INTERNAL_LINK#/file/media/files/CleanShot 2022-10-05 at 15.55.00.mp4)</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
