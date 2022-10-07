@@ -3,12 +3,71 @@
     <title>Learning Logseq</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-06T13:31:53-07:00</updated>
+    <updated>2022-10-07T09:45:49-07:00</updated>
     <author>
         <name>Brant</name>
     </author>
     <id>https://bherbert.github.io/logseq</id>
 
+    <entry>
+        <title>a WSIWIYG post</title>
+        <author>
+            <name>Brant</name>
+        </author>
+        <link href="https://bherbert.github.io/logseq/a-wsiwiyg-post.html"/>
+        <id>https://bherbert.github.io/logseq/a-wsiwiyg-post.html</id>
+
+        <updated>2022-10-07T09:45:49-07:00</updated>
+            <summary>
+                <![CDATA[
+                    😀 Success Highlight Warning Info Open in window Quoted text A link to a local video
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--success">😀 Success</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--warning">Warning</p>
+<p class="msg msg--info">Info</p>
+<p><video loading="lazy" width="100%" height="auto" controls="controls">
+    <source src="media/files/video2.mp4" type="video/mp4" /></video><a href="https://bherbert.github.io/logseq/media/files/video1.mp4" target="_blank" rel="noopener noreferrer"><br>Open in window</a></p>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://bherbert.github.io/logseq/media/posts/8/308108020_188639283637836_4991066234594736809_n.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bherbert.github.io/logseq/media/posts/8/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/8/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/8/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w"  alt="" width="696" height="1005"></figure>
+<blockquote>
+<p>Quoted text</p>
+</blockquote>
+<p><a href="https://bherbert.github.io/logseq/media/files/video1.mp4" target="_blank" rel="noopener noreferrer">A link to a local video</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Markdown Post</title>
+        <author>
+            <name>Brant</name>
+        </author>
+        <link href="https://bherbert.github.io/logseq/a-markdown-post.html"/>
+        <id>https://bherbert.github.io/logseq/a-markdown-post.html</id>
+
+        <updated>2022-10-07T09:38:30-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Heading line Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="heading-line">Heading line</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.</p>
+<ul>
+<li>list 1</li>
+<li>list 2</li>
+</ul>
+<p><a href="https://chroma.vision/products">CHROMA | Products</a></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Getting Started</title>
         <author>
@@ -44,7 +103,7 @@
         <link href="https://bherbert.github.io/logseq/post3.html"/>
         <id>https://bherbert.github.io/logseq/post3.html</id>
 
-        <updated>2022-10-06T13:15:40-07:00</updated>
+        <updated>2022-10-07T09:07:46-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -54,7 +113,11 @@
             <![CDATA[
                 
   <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. <br><br>Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. <br>
+  </p>
+
+  <p>
+    Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.
   </p>
 
     <figure class="post__image post__image--center">
@@ -103,7 +166,7 @@
         <link href="https://bherbert.github.io/logseq/test.html"/>
         <id>https://bherbert.github.io/logseq/test.html</id>
 
-        <updated>2022-10-06T13:07:07-07:00</updated>
+        <updated>2022-10-07T09:15:08-07:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;
@@ -146,6 +209,32 @@ type="video/mp4" /></video>
 <div><video loading="lazy" width="100%" height="auto" controls>
     <source src="media/files/video2.mp4" type="video/mp4" />
 </video></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Video Post Test</title>
+        <author>
+            <name>Brant</name>
+        </author>
+        <link href="https://bherbert.github.io/logseq/video-post-test.html"/>
+        <id>https://bherbert.github.io/logseq/video-post-test.html</id>
+
+        <updated>2022-10-07T09:18:31-07:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus</p>
+<p>The Read More line is right here</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus</p>
+<p>The Read More line is right here</p>
+
+<p> et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.</p>
+<p>This is below the line</p>
             ]]>
         </content>
     </entry>

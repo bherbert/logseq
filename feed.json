@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://bherbert.github.io/logseq/a-wsiwiyg-post.html",
+            "url": "https://bherbert.github.io/logseq/a-wsiwiyg-post.html",
+            "title": "a WSIWIYG post",
+            "summary": "😀 Success Highlight Warning Info Open in window Quoted text A link to a local video",
+            "content_html": "<p class=\"msg msg--success\">😀 Success</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<p class=\"msg msg--info\">Info</p>\n<p><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls=\"controls\">\n    <source src=\"media/files/video2.mp4\" type=\"video/mp4\" /></video><a href=\"https://bherbert.github.io/logseq/media/files/video1.mp4\" target=\"_blank\" rel=\"noopener noreferrer\"><br>Open in window</a></p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://bherbert.github.io/logseq/media/posts/8/308108020_188639283637836_4991066234594736809_n.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://bherbert.github.io/logseq/media/posts/8/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/8/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/8/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w\"  alt=\"\" width=\"696\" height=\"1005\"></figure>\n<blockquote>\n<p>Quoted text</p>\n</blockquote>\n<p><a href=\"https://bherbert.github.io/logseq/media/files/video1.mp4\" target=\"_blank\" rel=\"noopener noreferrer\">A link to a local video</a></p>",
+            "author": {
+                "name": "Brant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-07T09:44:08-07:00",
+            "date_modified": "2022-10-07T09:45:49-07:00"
+        },
+        {
+            "id": "https://bherbert.github.io/logseq/a-markdown-post.html",
+            "url": "https://bherbert.github.io/logseq/a-markdown-post.html",
+            "title": "A Markdown Post",
+            "summary": "Heading line Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero,&hellip;",
+            "content_html": "<h1 id=\"heading-line\">Heading line</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.</p>\n<ul>\n<li>list 1</li>\n<li>list 2</li>\n</ul>\n<p><a href=\"https://chroma.vision/products\">CHROMA | Products</a></p>\n",
+            "author": {
+                "name": "Brant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-07T09:38:30-07:00",
+            "date_modified": "2022-10-07T09:38:30-07:00"
+        },
+        {
             "id": "https://bherbert.github.io/logseq/learning-logseq.html",
             "url": "https://bherbert.github.io/logseq/learning-logseq.html",
             "title": "Getting Started",
@@ -27,14 +55,14 @@
             "url": "https://bherbert.github.io/logseq/post3.html",
             "title": "Post3",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan&hellip;",
-            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. <br><br>Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://bherbert.github.io/logseq/media/posts/3/308108020_188639283637836_4991066234594736809_n.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w\"  height=\"1005\" width=\"696\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. <br>\n  </p>\n\n  <p>\n    Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://bherbert.github.io/logseq/media/posts/3/308108020_188639283637836_4991066234594736809_n.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-xs.jpg 300w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-sm.jpg 480w ,https://bherbert.github.io/logseq/media/posts/3/responsive/308108020_188639283637836_4991066234594736809_n-md.jpg 768w\"  height=\"1005\" width=\"696\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Brant"
             },
             "tags": [
             ],
             "date_published": "2022-10-06T11:05:34-07:00",
-            "date_modified": "2022-10-06T13:15:40-07:00"
+            "date_modified": "2022-10-07T09:07:46-07:00"
         },
         {
             "id": "https://bherbert.github.io/logseq/post2.html",
@@ -61,8 +89,22 @@
             },
             "tags": [
             ],
-            "date_published": "2022-10-06T10:46:29-07:00",
-            "date_modified": "2022-10-06T13:07:07-07:00"
+            "date_published": "2022-09-25T10:46:00-07:00",
+            "date_modified": "2022-10-07T09:15:08-07:00"
+        },
+        {
+            "id": "https://bherbert.github.io/logseq/video-post-test.html",
+            "url": "https://bherbert.github.io/logseq/video-post-test.html",
+            "title": "Video Post Test",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus</p>\n<p>The Read More line is right here</p>\n",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies, lectus eget sagittis porta, velit nisl hendrerit libero, a accumsan enim mauris vitae est. Ut fermentum rutrum justo dictum porta. Phasellus adipiscing, nulla ac volutpat pretium, quam urna suscipit augue, et ornare risus odio vel diam. Cum sociis natoque penatibus</p>\n<p>The Read More line is right here</p>\n\n<p> et magnis dis parturient montes, nascetur ridiculus mus. Donec id mauris diam, et iaculis nisi. Curabitur at dictum enim. Cras rhoncus rhoncus ligula at sodales. Suspendisse sed sapien ac ligula aliquet lacinia. Praesent placerat aliquam ipsum at venenatis. Maecenas quis felis quis quam lobortis elementum sed ac massa. Vivamus venenatis congue urna, mattis tempus orci accumsan eu. Sed cursus iaculis adipiscing. Nulla tellus metus, molestie eu porta ut, fringilla ultrices orci. Phasellus eget blandit ligula.</p>\n<p>This is below the line</p>",
+            "author": {
+                "name": "Brant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-25T09:04:00-07:00",
+            "date_modified": "2022-10-07T09:18:31-07:00"
         }
     ]
 }
