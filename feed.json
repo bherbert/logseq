@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Learning Logseq",
+    "title": "rss",
     "description": "",
     "home_page_url": "https://bherbert.github.io/logseq",
     "feed_url": "https://bherbert.github.io/logseq/feed.json",
