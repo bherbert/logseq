@@ -41,14 +41,14 @@
             "id": "https://bherbert.github.io/logseq/learning-logseq.html",
             "url": "https://bherbert.github.io/logseq/learning-logseq.html",
             "title": "Getting Started",
-            "content_html": "\n<p>this is a test</p>\n\n<p><a href=\"https://bherbert.github.io/logseq/media/files/video1.mp4\">and some more</a></p>\n\n<h2>Intro post</h2>\n<ul>\n<li>Why this site</li>\n<li>showing features and plugins</li>\n<li>showing usecases and workflows</li>\n</ul>\n<p> </p>",
+            "content_html": "\n<p>this is a test</p>\n\n<p><a href=\"https://bherbert.github.io/logseq/media/files/video1.mp4\">and some more</a></p>\n\n<h2>Intro post</h2>\n<ul>\n<li>Why this site</li>\n<li>showing features and plugins</li>\n<li>showing usecases and workflows</li>\n<li>see <a href=\"https://robhaisfield.com/notes/apps-with-continued-user-involvement-respond-to-changing-user-goals-over-time\">Rob's Hypertext Notebook</a></li>\n</ul>\n<p> </p>",
             "author": {
                 "name": "Brant"
             },
             "tags": [
             ],
             "date_published": "2022-10-06T13:17:37-07:00",
-            "date_modified": "2022-10-06T13:31:53-07:00"
+            "date_modified": "2022-10-14T11:29:53-07:00"
         },
         {
             "id": "https://bherbert.github.io/logseq/post3.html",

@@ -3,7 +3,7 @@
     <title>rss</title>
     <link href="https://bherbert.github.io/logseq/feed.xml" rel="self" />
     <link href="https://bherbert.github.io/logseq" />
-    <updated>2022-10-07T09:45:49-07:00</updated>
+    <updated>2022-10-14T11:29:53-07:00</updated>
     <author>
         <name>Brant</name>
     </author>
@@ -76,7 +76,7 @@
         <link href="https://bherbert.github.io/logseq/learning-logseq.html"/>
         <id>https://bherbert.github.io/logseq/learning-logseq.html</id>
 
-        <updated>2022-10-06T13:31:53-07:00</updated>
+        <updated>2022-10-14T11:29:53-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -90,6 +90,7 @@
 <li>Why this site</li>
 <li>showing features and plugins</li>
 <li>showing usecases and workflows</li>
+<li>see <a href="https://robhaisfield.com/notes/apps-with-continued-user-involvement-respond-to-changing-user-goals-over-time">Rob's Hypertext Notebook</a></li>
 </ul>
 <p> </p>
             ]]>
